@@ -35,3 +35,9 @@ My goal for this project is to create a fun and interesting way to learn Japanes
 2. Figure out more on auto-translating when click on an element (use a Link tag like in Chakra?)
 3. Start figuring out how to scale website to handle multiple entries
 4. Figure out where to store these entries (online db/cloud)
+
+### LATER
+1. Start hosting! (iruka.lol pref domain)
+2. Look into artists who can better help design
+3. Figure out how to market and deploy to a large scale
+4. Learn a lot about everything!
