@@ -1,4 +1,7 @@
-# NHK Easy News Scraping Test
+# Iruka Learn
+
+## What is Iruka Learn?
+My goal for this project is to create a way to learn Japanese using NHK and other Japan news. During my Japanese classes in college, we would read from NHK news as a way to warm-up, and get to know more about current events in Japan. I want to create a tool for myself and others to use this approach in an optimized way, which will include better translation for kanji and words, quizzing, a filter ranging from Easy to Hard sources, and so much more. I admittedly have been not as great at keeping up with studying, so lets hope this will keep me motivated!
 
 ## TODO:
 
